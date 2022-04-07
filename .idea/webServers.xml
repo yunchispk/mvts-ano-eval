@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d8670c4-c3d8-4eef-b505-e96c23f09cfa" name="525_523">
+        <fileTransfer rootFolder="/home/yons/qisibo/mvts-ano-eval" accessType="SFTP" host="192.168.1.253" port="22" sshConfigId="6515878f-afc5-4316-9147-ae503112d431" sshConfig="yons@192.168.1.253:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e774d355-0144-48bd-9518-46eb1a384114" name="autoDL">
+        <fileTransfer accessType="SFTP" host="region-6.autodl.com" port="51454" sshConfigId="2664ebfb-c01b-4523-b2e8-fce8092675f8" sshConfig="root@region-6.autodl.com:51454 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

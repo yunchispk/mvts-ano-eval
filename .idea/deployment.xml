@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="525_523" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="525_523">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yons/qisibo/mvts-ano-eval" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yons@124.221.139.202:6066">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_550" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yons@124.221.139.202:6066 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_360" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

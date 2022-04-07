@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="region-6.autodl.com" id="2664ebfb-c01b-4523-b2e8-fce8092675f8" port="51454" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.1.253" id="6515878f-afc5-4316-9147-ae503112d431" port="22" nameFormat="DESCRIPTIVE" username="yons" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
