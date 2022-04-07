@@ -19,7 +19,7 @@ seaborn
 # for omnianomaly
 tensorflow-probability==0.7.0
 gast==0.2.2
-git+https://github.com/korepwx/tfsnippet.git
-git+https://github.com/thu-ml/zhusuan.git
+git://github.com/korepwx/tfsnippet.git
+git://github.com/thu-ml/zhusuan.git
 # for ocsvm
 thundersvm-cuda10
