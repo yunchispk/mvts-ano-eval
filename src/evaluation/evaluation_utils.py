@@ -4,8 +4,8 @@ run predictions for multiple algos and datasets from saved_model pkl files
 Dec 2019
 """
 
-import umap
-import traceback
+# import umap
+# import traceback
 
 from configs import default_thres_config, constant_std
 from src.algorithms.telem_anom.errors import Errors
